@@ -1,4 +1,4 @@
-# TileVania_2D_Game
+# TileVania 2D Game
 
 Level 1
 ![LVL1](https://user-images.githubusercontent.com/60744320/197209008-7a52313e-34b3-4033-9677-e730efec0087.png)
